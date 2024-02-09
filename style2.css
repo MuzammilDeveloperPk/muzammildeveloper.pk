@@ -1,0 +1,13 @@
+body {
+    background-image: url(backgroundimage4.jpg);
+    height: 100vh;
+    background-size: cover;
+    color: antiquewhite;
+    font-size: xx-large;
+}
+
+.btn-btn-primary {
+    text-align: center;
+    font-size: xx-large;
+    
+}
